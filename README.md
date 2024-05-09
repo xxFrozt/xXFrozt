@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm currently working on my master thesis and I'm using Github co-pilot. Awesome.
+### I'm currently working on my master thesis.
 <!--
 **xxFrozt/xXFrozt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
